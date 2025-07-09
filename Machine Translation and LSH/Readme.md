@@ -28,7 +28,7 @@ It demonstrates how to align bilingual word embeddings and perform word-by-word 
 
 ```
 git clone https://github.com/Aliha7ish/NLP-Fundamentals.git
-cd nlp-projects/Machine Translation and LSH
+cd NLP-Fundamentals/Machine Translation and LSH
 ```
 
 ### Install dependencies
