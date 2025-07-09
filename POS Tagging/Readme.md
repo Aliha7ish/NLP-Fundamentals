@@ -47,19 +47,19 @@ POS tagging is inherently a disambiguation task. Words can take on multiple POS 
 ## Method used: 
 Statistical and probabilistic method have been used in this task.
 
-1- Bayesian Method: it achieved 88% accuracy as it was trained a large annotated corpora to predict POS Tags
-2- Statistical Methods: Viterbi + Hidden Markov Model (HMM) as it achieved 95% accuracy
+- 1- Bayesian Method: it achieved 88% accuracy as it was trained a large annotated corpora to predict POS Tags
+- 2- Statistical Methods: Viterbi + Hidden Markov Model (HMM) as it achieved 95% accuracy
 as states are hidden we infer the tags by analysing word sequence so our hidden states are POS Tags we need to infer and Observations are Words observed from the corpus
 
 
 in our implementation we defined our components which they are:
-1- Q = q1, q2, ..., qm (set of hidden states)
-2- A (Transition probability matrix) as it states the probability of moving from one state to the next state
-3- B (Emission probability matrix) as it states the probability of generating observation o from state q
+- 1- Q = q1, q2, ..., qm (set of hidden states)
+- 2- A (Transition probability matrix) as it states the probability of moving from one state to the next state
+- 3- B (Emission probability matrix) as it states the probability of generating observation o from state q
 as we faced the problem of some states doesn't occuer next to each other so their probability will be zero, we used laplacian smoothing so that they have
 equal probability to be selected.
 the decoding algorithm for HMM is Viterbi algorithm which resembles the dynamic programming minimum edit distance algorithm.
-![Viterbi Psuedo Code](./images/Viterbi PsuedoCode.jpg)
+![Penn Treebank Tagset](./images/Viterbi.jpg)
 
 
 ## Dataset Used
