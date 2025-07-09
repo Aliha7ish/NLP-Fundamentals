@@ -37,8 +37,6 @@ POS tags represent parts of speech such as:
 ### 2️⃣ Tagsets  
 
 A **tagset** is a collection of labels used to annotate words with their respective POS tags. Different tagsets exist, but the most widely used for English NLP tasks is the **Penn Treebank POS Tagset**.
-
-```markdown
 ![Penn Treebank Tagset](./images/Treebank.jpg)
 
 
