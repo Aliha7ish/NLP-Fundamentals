@@ -59,7 +59,7 @@ in our implementation we defined our components which they are:
 as we faced the problem of some states doesn't occuer next to each other so their probability will be zero, we used laplacian smoothing so that they have
 equal probability to be selected.
 the decoding algorithm for HMM is Viterbi algorithm which resembles the dynamic programming minimum edit distance algorithm.
-![Penn Treebank Tagset](./images/Viterbi.jpg)
+![Viterbi Psuedocode](./images/Viterbi.jpg)
 
 
 ## Dataset Used
