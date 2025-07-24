@@ -40,7 +40,7 @@ Follow these steps to run the project in your terminal (Windows):
 ### 1. 📦 Clone the repository
 
 ```
-git clone https://github.com/your-username/LSTM-NER.git
+git clone https://github.com/Aliha7ish/NLP-Fundamentals/tree/main/LSTM-NER
 cd LSTM-NER
 ```
 
@@ -48,8 +48,8 @@ cd LSTM-NER
 
 Make sure Python 3.10 is installed on your system.
 
-```
 # Replace the path with the actual Python 3.10 path if needed
+```
 "C:\Path\To\Python310\python.exe" -m venv traxenv
 ```
 
