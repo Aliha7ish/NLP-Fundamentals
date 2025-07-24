@@ -1,0 +1,6 @@
+trax==1.4.1
+protobuf==3.20.3
+numpy==1.26.4
+jax==0.3.25
+jaxlib==0.3.25
+tensorflow==2.11.0
