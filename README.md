@@ -31,6 +31,11 @@ cd ./Machine Translation and LSH
 cd ./Naive Bayes
 ```
 
+### For Named entity recognition using LSTM Project
+```
+cd ./LSTM-NER
+```
+
 ### For Word Vector Project
 ```
 cd ./Word Vector
