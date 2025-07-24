@@ -48,7 +48,7 @@ cd LSTM-NER
 
 Make sure Python 3.10 is installed on your system.
 
-# Replace the path with the actual Python 3.10 path if needed
+Replace the path with the actual Python 3.10 path if needed
 ```
 "C:\Path\To\Python310\python.exe" -m venv traxenv
 ```
