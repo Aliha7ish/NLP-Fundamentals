@@ -19,8 +19,8 @@ Follow these steps to run the project in your terminal (Windows):
 ### 1. 📦 Clone the repository
 
 ```
-git clone https://github.com/Aliha7ish/Question-Duplicates.git
-cd Question-duplicates
+git clone https://github.com/Aliha7ish/NLP-Fundamentals/blob/main/Question-Duplicates.git
+cd Question-Duplicates
 ```
 
 ### 2. 🐍 Create a virtual environment with Python 3.10
