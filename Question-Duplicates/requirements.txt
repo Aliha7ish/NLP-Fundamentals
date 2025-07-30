@@ -1,0 +1,6 @@
+trax
+tensorflow
+tensor2tensor
+numpy
+pandas
+nltk

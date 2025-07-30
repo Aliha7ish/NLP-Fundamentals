@@ -40,7 +40,7 @@ Follow these steps to run the project in your terminal (Windows):
 ### 1. 📦 Clone the repository
 
 ```
-git clone https://github.com/your-username/LSTM-NER.git
+git clone https://github.com/Aliha7ish/LSTM-NER.git
 cd LSTM-NER
 ```
 
