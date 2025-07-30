@@ -36,4 +36,9 @@ cd ./Naive Bayes
 cd ./Word Vector
 ```
 
+### For Siamese Network Project
+```
+cd ./Question-Duplicates
+```
+
 📝 Each folder includes its own README.md with instructions, dataset info, and explanations of the algorithm.
