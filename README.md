@@ -11,17 +11,17 @@ cd NLP-Fundamentals
 ### 📂 Navigate to Any Project
 Each project is in its own folder. Use cd to go inside a specific project the notebook is provided in the folder:
 
-#### For the POS Tagger project
+### For the POS Tagger project
 ```
 cd POS Tagging
 ```
 
-#### For the Autocorrect project
+### For the Autocorrect project
 ```
 cd ./Minimum Edit Distance
 ```
 
-#### For the Machine Translation project
+### For the Machine Translation project
 ```
 cd ./Machine Translation and LSH
 ```
